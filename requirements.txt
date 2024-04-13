@@ -1,0 +1,11 @@
+jupyterlab
+opencv-contrib-python
+opencv-python
+pandas
+pygame
+jupyterlab_widgets
+jupyterlab-fonts
+mtcnn
+detecto
+labelImg
+ipywidgets
